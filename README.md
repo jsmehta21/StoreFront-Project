@@ -57,8 +57,8 @@ cd Amazon-Clone/Amazon Clone
 ## 📸 Screenshots
 Here's a screenshot of the final page:
 ![Screenshot1](https://github.com/user-attachments/assets/5d19ffc1-a99c-4cc6-ab35-39b8acdac3c5)
-![Screenshot2](https://github.com/user-attachments/assets/c849addb-246b-42e7-abe3-bfea3e2af38c)
-![Screenshot3](https://github.com/user-attachments/assets/d9a5aea0-d5fa-4dc1-acb4-be197c812b24)
+![Screenshot2](https://github.com/user-attachments/assets/ad51cc0d-9d8b-4546-b24b-47e399f50e9d)
+![Screenshot3](https://github.com/user-attachments/assets/b87dd72f-1039-46e0-a258-ecf2155fe85e)
 
 ---
 
