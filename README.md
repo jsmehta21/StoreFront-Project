@@ -1,11 +1,11 @@
-# Amazon Clone Project 🛒🛍️
+# 🛒🛍️ Amazon Clone Project 
 
-Welcome to the **Amazon Clone** project! This is a visually appealing and beginner-friendly replication of the Amazon homepage using basic **HTML** and **CSS**. It’s a project designed to demonstrate how fundamental web development skills can bring a static design to life.
+Welcome to the Amazon Clone project! This is a visually appealing and beginner-friendly replication of the Amazon homepage using basic HTML and CSS. It’s a project designed to demonstrate how fundamental web development skills can bring a static design to life.
+<br> Deployed Link: https://amazon-clone-jiya.netlify.app/
 
 ---
 
 ## 🌟 Features
-
 - **Static Landing Page**: A sleek and simplified design inspired by Amazon’s homepage.
 - **Navigation Bar**: A visually clean and structured navbar with placeholders for links to various sections.
 - **Product Layout**: Showcases a grid-based design for displaying products (static placeholders).
@@ -15,18 +15,14 @@ Welcome to the **Amazon Clone** project! This is a visually appealing and beginn
 ---
 
 ## 🎨 Technologies Used
-
 This project uses the following technologies:
-
 - **HTML**: To structure the web page and define its content.
 - **CSS**: To bring the page to life with styling, alignment, and responsiveness.
 
 ---
 
 ## 📂 Project Structure
-
 Here's a brief overview of the project files and their purpose:
-
 ```plaintext
 Amazon Clone/
 │
@@ -38,18 +34,16 @@ Amazon Clone/
 ---
 
 ## 🚀 Live Demo
-Currently, the project is not hosted online. To explore it:
-
+Deployed Link: https://amazon-clone-jiya.netlify.app/
+To run this locally, follow the steps given below:
 1. Clone the repository:
 ```plaintext
 git clone https://github.com/jsmehta21/Amazon-Clone.git
 ```
-
 2. Navigate to the project folder:
 ```plaintext
 cd Amazon-Clone/Amazon Clone
 ```
-
 3. Open the index.html file in any web browser.
 
 ---
@@ -74,6 +68,5 @@ This project is intended for educational purposes only. It is not associated wit
 ---
 
 ## 💌 Contact
-For any questions, feedback, or suggestions, feel free to connect with me on GitHub: https://github.com/jsmehta21
-
+For any questions, feedback, or suggestions, feel free to connect with me on GitHub: https://github.com/jsmehta21<br>
 Thank you for checking out the Amazon Clone project! ✨
