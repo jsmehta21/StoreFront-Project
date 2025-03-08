@@ -20,7 +20,7 @@
 }
 
 .logo {
-    background-image: url("assets/amazon-logo.png");
+    background-image: url("assets/logo-storeFront.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -268,10 +268,10 @@ ul p {
 }
 
 .logo {
-    background-image: url("assets/amazon-logo.png");
-    background-size: cover;
+    background-image: url("assets/logo-storeFront.png");
+    background-size: contain;
     height: 50px;
-    width: 110px;
+    width: 50px;
 }
 
 .foot-panel4 {
