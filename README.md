@@ -1,72 +1,81 @@
-# 🛒🛍️ Amazon Clone Project 
+# 🛒 StoreFront
 
-Welcome to the Amazon Clone project! This is a visually appealing and beginner-friendly replication of the Amazon homepage using basic HTML and CSS. It’s a project designed to demonstrate how fundamental web development skills can bring a static design to life.
-<br> Deployed Link: https://amazon-clone-jiya.netlify.app/
+Welcome to **StoreFront**! This is a visually engaging and beginner-friendly e-commerce homepage built using **HTML & CSS**. The project showcases a clean and responsive user interface, inspired by modern online shopping platforms.
+
+🌐 **Live Demo**: [StoreFront](https://storefront-jiya.netlify.app/)
 
 ---
 
 ## 🌟 Features
-- **Static Landing Page**: A sleek and simplified design inspired by Amazon’s homepage.
-- **Navigation Bar**: A visually clean and structured navbar with placeholders for links to various sections.
-- **Product Layout**: Showcases a grid-based design for displaying products (static placeholders).
-- **CSS Styling**: Neatly written CSS for layout, font styles, and color schemes.
-- **Responsive Design**: Ensures a seamless experience on both desktop and mobile devices.
+
+- **Elegant Landing Page** – A well-structured homepage with a professional look.  
+- **Navigation Bar** – Organized header with sections for easy navigation.  
+- **Product Display** – A grid-based layout presenting featured products.  
+- **Responsive Design** – Optimized for both desktop and mobile devices.  
+- **Modern CSS Styling** – Aesthetic visuals, smooth layout, and color coordination.  
 
 ---
 
 ## 🎨 Technologies Used
-This project uses the following technologies:
-- **HTML**: To structure the web page and define its content.
-- **CSS**: To bring the page to life with styling, alignment, and responsiveness.
+
+This project is built with:
+- **HTML** – For structuring the webpage content.  
+- **CSS** – For styling, alignment, and responsiveness.  
 
 ---
 
 ## 📂 Project Structure
-Here's a brief overview of the project files and their purpose:
-```plaintext
-Amazon Clone/
+
+```
+StoreFront/
 │
-├── index.html        # Main HTML file (structure of the webpage)
+├── index.html        # Main HTML file (webpage structure)
 ├── style.css         # CSS file (styling and layout rules)
-└── images            # images used in the webpage
+└── assets/           # Directory for images used in the webpage
 ```
 
 ---
 
-## 🚀 Live Demo
-Deployed Link: https://amazon-clone-jiya.netlify.app/
-To run this locally, follow the steps given below:
-1. Clone the repository:
-```plaintext
-git clone https://github.com/jsmehta21/Amazon-Clone.git
-```
-2. Navigate to the project folder:
-```plaintext
-cd Amazon-Clone/Amazon Clone
-```
-3. Open the index.html file in any web browser.
+## 🚀 Getting Started
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/jsmehta21/StoreFront-Project.git
+   ```
+2. **Navigate to the project folder:**
+   ```sh
+   cd StoreFront-Project/StoreFront-Project
+   ```
+3. **Open the `index.html` file** in any web browser.
 
 ---
 
 ## 📸 Screenshots
-Here's a screenshot of the final page:
-![Screenshot1](https://github.com/user-attachments/assets/5d19ffc1-a99c-4cc6-ab35-39b8acdac3c5)
-![Screenshot2](https://github.com/user-attachments/assets/ad51cc0d-9d8b-4546-b24b-47e399f50e9d)
-![Screenshot3](https://github.com/user-attachments/assets/b87dd72f-1039-46e0-a258-ecf2155fe85e)
+
+Here's a preview of the homepage:
+
+![Screenshot1](https://github.com/user-attachments/assets/8e57df2f-b0bc-40af-a5c0-235d9b380b79)
+![Screenshot2](https://github.com/user-attachments/assets/481c3c31-d65f-44df-a989-766757dfc72c)
+![Screenshot3](https://github.com/user-attachments/assets/12cd2500-aff5-4b10-82d9-36c81cf14089)
 
 ---
 
 ## 🙏 Acknowledgements
-Inspiration: This project is inspired by the Amazon website on New Year Eve 2025.<br>
-Creator: Designed and developed by Jiya Mehta.
+
+**Inspiration:** This project is inspired by modern e-commerce websites and built as a frontend development practice.  
+**Creator:** Designed and developed by [Jiya Mehta](https://github.com/jsmehta21).  
 
 ---
 
 ## 🛠 License
-This project is intended for educational purposes only. It is not associated with or endorsed by Amazon.
+
+This project is intended for educational purposes only.
 
 ---
 
 ## 💌 Contact
-For any questions, feedback, or suggestions, feel free to connect with me on GitHub: https://github.com/jsmehta21<br>
-Thank you for checking out the Amazon Clone project! ✨
+
+For any questions, feedback, or suggestions, feel free to connect with me on **GitHub**: [@jsmehta21](https://github.com/jsmehta21)  
+Thank you for checking out **StoreFront**! ✨
